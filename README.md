@@ -23,7 +23,7 @@ Venus being an inner planet closer to the sun with respect to the earth, its stu
 - 1 battery pack
 - 1 Rover
 
-👉 [See full report](https://github.com/winsis/Nasa-SpaceApps-2022---Exploring-Venus-Together-/blob/main/Documentaci%C3%B3n/Report%20Beyond%2060%20dyas.pdf "See full report")
+👉 [See full report](https://github.com/winsis/Nasa-SpaceApps-2022---Exploring-Venus-Together-/blob/main/Documentaci%C3%B3n/Report%20Beyond%2060%20dyas.pdf "See full report") 👈
 
 ## References
 

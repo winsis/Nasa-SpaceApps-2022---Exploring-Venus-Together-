@@ -1,7 +1,7 @@
 # Nasa SpaceApps 2022 - ‘Exploring Venus Together’
 ## BEYOND 60 DAYS
 ### BY PROMETEO TEAM
-Guayaquil, Guayas, Ecuador
+#### Guayaquil, Guayas, Ecuador
 
 ## 🦾Team members:
 - Jimmy Bersoza V. - Systems engineer

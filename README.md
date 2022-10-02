@@ -3,7 +3,7 @@
 ### BY PROMETEO TEAM
 Guayaquil, Guayas, Ecuador
 
-## Team members:
+## 🦾Team members:
 - Jimmy Bersoza V. - Systems engineer
 - Darwin Chávez V. - Software developer
 - Eizer Montesdeoca D. - TEFL Teacher

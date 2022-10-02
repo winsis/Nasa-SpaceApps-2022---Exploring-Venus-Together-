@@ -11,7 +11,7 @@ Guayaquil, Guayas, Ecuador
 - Mario Macías P. - IT Analyst
 ------------
 
-## Resumen
+## Summary
 
 > The “Beyond 60 days” Project is an uninterruptible power supply system that will keep the different devices that are part of the exploration missions to Venus in operation.
 

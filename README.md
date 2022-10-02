@@ -24,3 +24,13 @@ Venus being an inner planet closer to the sun with respect to the earth, its stu
 - 1 Rover
 
 👉 [See full report](https://github.com/winsis/Nasa-SpaceApps-2022---Exploring-Venus-Together-/blob/main/Documentaci%C3%B3n/Report%20Beyond%2060%20dyas.pdf "See full report")
+
+## References
+
+- https://spinoff.nasa.gov/Spinoff2010/cg_2.html
+- https://pubs.acs.org/doi/full/10.1021/acsami.1c23087
+- https://rps.nasa.gov/power-and-thermal-systems/power-systems/
+- https://rps.nasa.gov/power-and-thermal-systems/dynamic-radioisotope-power/
+- https://www.nasa.gov/sites/default/files/atoms/files/niac_2016_phasei_saunder_aree_tagged.pdf
+- https://solarsystem.nasa.gov/resources/549/energy-storage-technologies-for-future-planetary-science-missions/
+- Creus, A. (2011) Instrumentación Industrial. 8va Edición. México. Alfaomega Grupo Editor.
